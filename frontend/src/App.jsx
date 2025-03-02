@@ -9,7 +9,7 @@ import {
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { getItem } from "./utils/storage.js";
-import { UserProvider } from "./context/UserContext";
+import { UserProvider } from "./context/userContext";
 import Home from "./Pages/Home";
 import Auth from "./Pages/Auth";
 import About from "./Pages/about";
